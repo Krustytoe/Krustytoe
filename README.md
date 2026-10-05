@@ -1,9 +1,9 @@
 ### Hi, I'm Tony 👋
 
-Solutions Architect / Tech Lead for **Cloud Engineering & SRE** at SMX. I've spent 14+ years making cloud platforms reliable, observable, and boring in the best way, across AWS (commercial + GovCloud), Azure, and Kubernetes.
+Solutions Architect / Tech Lead for **Cloud Engineering & SRE**. I've spent 14+ years making cloud platforms reliable, observable, and boring in the best way, across AWS (commercial + GovCloud), Azure, and Kubernetes.
 
-- 🏛️ Today: architecture and SRE leadership for seven enterprise and government customers in an agile pod model, with FedRAMP Moderate/High, DoD IL5/IL6, NIST 800-53, and CMMC in scope
-- 🌎 Before that: led a 12-person global onshore/offshore SRE org at Texas Capital Bank on AWS and Azure
+- 🏛️ Today: architecture and SRE leadership for enterprise and government customers, with FedRAMP Moderate/High, DoD IL5/IL6, NIST 800-53, and CMMC in scope
+- 🌎 Before that: led a 12-person global onshore/offshore SRE org on AWS and Azure
 - 🤖 Lately: building agentic Claude Code workflows that tie together cloud, observability, and incident tooling
 
 #### What I work on
