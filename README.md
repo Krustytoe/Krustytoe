@@ -23,6 +23,7 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE**. I've spent 14+ 
 | [terraform-aws-platform-modules](https://github.com/Krustytoe/terraform-aws-platform-modules) | Partition-aware Terraform modules (VPC baseline, GitHub OIDC role, encrypted SNS alerting) with offline `terraform test` suites |
 | [terraform-azure-platform-modules](https://github.com/Krustytoe/terraform-azure-platform-modules) | Partition-aware Azure Terraform modules (VNet baseline, GitHub OIDC role, Monitor action group) with offline `terraform test` suites |
 | [kubernetes-platform-modules](https://github.com/Krustytoe/kubernetes-platform-modules) | Terraform modules for EKS and AKS: private endpoints, IMDSv2, workload identity, KMS secrets encryption, offline `terraform test` suites |
+| [platform-workflows](https://github.com/Krustytoe/platform-workflows) | Reusable GitHub Actions workflows (Terraform plan/apply, Trivy scan) and composite actions (AWS + Azure OIDC auth, Terraform setup) |
 | [observability-as-code](https://github.com/Krustytoe/observability-as-code) | Prometheus rules with promtool unit tests, multi-burn-rate SLO alerts, Grafonnet dashboards, Terraform deploys |
 | [claude-code-skills](https://github.com/Krustytoe/claude-code-skills) | Claude Code plugin: Terraform plan risk review, alert authoring, incident triage, GovCloud readiness |
 
