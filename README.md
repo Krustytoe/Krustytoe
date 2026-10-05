@@ -21,6 +21,7 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE**. I've spent 14+ 
 | Repo | What's in it |
 |---|---|
 | [terraform-aws-platform-modules](https://github.com/Krustytoe/terraform-aws-platform-modules) | Partition-aware Terraform modules (VPC baseline, GitHub OIDC role, encrypted SNS alerting) with offline `terraform test` suites |
+| [terraform-azure-platform-modules](https://github.com/Krustytoe/terraform-azure-platform-modules) | Partition-aware Azure Terraform modules (VNet baseline, GitHub OIDC role, Monitor action group) with offline `terraform test` suites |
 | [observability-as-code](https://github.com/Krustytoe/observability-as-code) | Prometheus rules with promtool unit tests, multi-burn-rate SLO alerts, Grafonnet dashboards, Terraform deploys |
 | [claude-code-skills](https://github.com/Krustytoe/claude-code-skills) | Claude Code plugin: Terraform plan risk review, alert authoring, incident triage, GovCloud readiness |
 
