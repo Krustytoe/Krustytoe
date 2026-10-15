@@ -16,6 +16,12 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years
 | **Delivery** | Azure DevOps, GitHub Actions, GitOps, blue/green deployments |
 | **Compliance & supply chain** | FedRAMP, DoD IL5/IL6, NIST 800-53, CMMC, CUI handling, SBOMs, vulnerability-remediation SLAs |
 
+#### Certifications
+
+- Microsoft Certified Solutions Expert (MCSE): Cloud Platform & Infrastructure
+- DevOps Institute: Site Reliability Engineering Foundation (SRE-F)
+- CompTIA Security+
+
 #### Projects
 
 | Repo | What's in it |
