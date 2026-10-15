@@ -1,6 +1,6 @@
 ### Hi, I'm Tony 👋
 
-Solutions Architect / Tech Lead for **Cloud Engineering & SRE**. I've spent 14+ years making cloud platforms reliable, observable, and boring in the best way, across AWS (commercial + GovCloud), Azure, and Kubernetes.
+Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years in IT**, the last 14+ focused on making cloud platforms reliable, observable, and boring in the best way, across AWS (commercial + GovCloud), Azure, and Kubernetes.
 
 - 🏛️ Today: architecture and SRE leadership for enterprise and government customers, with FedRAMP Moderate/High, DoD IL5/IL6, NIST 800-53, and CMMC in scope
 - 🌎 Before that: led a 12-person global onshore/offshore SRE org on AWS and Azure
