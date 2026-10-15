@@ -6,6 +6,13 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years
 - 🌎 Before that: led a 12-person global onshore/offshore SRE org on AWS and Azure
 - 🤖 Lately: building agentic Claude Code workflows that tie together cloud, observability, and incident tooling
 
+#### Impact
+
+- 🏦 **Led a 12-person global SRE org** in regulated financial services (AWS + Azure): cut MTTR **~35%**, reduced repeat incidents **~20%**, and lowered pages per on-call engineer **25%+** through runbook maturity, alert-routing cleanup, threshold tuning, and automated remediation of common failures
+- 📈 Met a **99.95% availability target** on customer-facing platforms
+- 🛡️ Architecture and SRE lead across **7 enterprise and government customers**; operated and maintained compliance controls for **3 FedRAMP High / DoD IL5 environments** through ATO readiness
+- 🚚 **50+ services** migrated or re-platformed across multi-account AWS and EKS, built on standardized, reusable Terraform modules
+
 #### What I work on
 
 | | |
