@@ -21,6 +21,7 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years
 - Microsoft Certified Solutions Expert (MCSE): Cloud Platform & Infrastructure
 - DevOps Institute: Site Reliability Engineering Foundation (SRE-F)
 - CompTIA Security+
+- AWS Certified Solutions Architect – Associate (SAA-C03): *in progress*
 
 #### Projects
 
