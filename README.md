@@ -30,3 +30,7 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years
 #### How I like to build
 
 Git as the source of truth · validate → plan → approve → apply · tests for alerts, not just code · least privilege by default · automate the second time, not the fifth.
+
+#### Get in touch
+
+💼 [LinkedIn](https://www.linkedin.com/in/tonyle214)
