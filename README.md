@@ -1,3 +1,4 @@
+<!-- Use this repo (Krustytoe/Krustytoe) when you want to update your public GitHub profile bio, career impact summary, and featured projects list. -->
 ### Hi, I'm Tony 👋
 
 Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years in IT**, the last 14+ focused on making cloud platforms reliable, observable, and boring in the best way, across AWS (commercial + GovCloud), Azure, and Kubernetes. Now applying the same discipline to **enterprise GenAI**: guardrailed, private, cost-governed RAG platforms on Amazon Bedrock and Azure OpenAI.
@@ -34,16 +35,16 @@ Solutions Architect / Tech Lead for **Cloud Engineering & SRE** with **25+ years
 
 #### Projects
 
-| Repo | What's in it |
-|---|---|
-| [aws-genai-platform](https://github.com/Krustytoe/aws-genai-platform) | RAG platform on Amazon Bedrock: Terraform for guardrails (enforced by IAM deny), S3 Vectors knowledge base, private endpoints and invocation audit logging; FastAPI service with PII redaction, citations and per-team cost metrics; promptfoo evals in CI |
-| [azure-genai-platform](https://github.com/Krustytoe/azure-genai-platform) | Keyless RAG platform on Azure OpenAI + AI Search: Terraform for an APIM AI gateway with per-team token limits, Prompt Shields content filtering and private endpoints; same API and eval suite as the AWS build |
-| [claude-code-skills](https://github.com/Krustytoe/claude-code-skills) | Claude Code plugin: Terraform plan risk review, alert authoring, incident triage, GovCloud readiness |
-| [observability-as-code](https://github.com/Krustytoe/observability-as-code) | Prometheus rules with promtool unit tests, multi-burn-rate SLO alerts, Grafonnet dashboards, Terraform deploys |
-| [terraform-aws-platform-modules](https://github.com/Krustytoe/terraform-aws-platform-modules) | Partition-aware Terraform modules (VPC baseline, GitHub OIDC role, encrypted SNS alerting) with offline `terraform test` suites |
-| [terraform-azure-platform-modules](https://github.com/Krustytoe/terraform-azure-platform-modules) | Partition-aware Azure Terraform modules (VNet baseline, GitHub OIDC role, Monitor action group) with offline `terraform test` suites |
-| [kubernetes-platform-modules](https://github.com/Krustytoe/kubernetes-platform-modules) | Terraform modules for EKS and AKS: private endpoints, IMDSv2, workload identity, KMS secrets encryption, offline `terraform test` suites |
-| [platform-workflows](https://github.com/Krustytoe/platform-workflows) | Reusable GitHub Actions workflows (Terraform plan/apply, Trivy scan) and composite actions (AWS + Azure OIDC auth, Terraform setup) |
+| Repo | When to use | What's in it |
+|---|---|---|
+| [aws-genai-platform](https://github.com/Krustytoe/aws-genai-platform) | Deploy or update a private, guardrailed AI document-Q&A app on AWS (Bedrock) with per-team cost tracking | RAG platform on Amazon Bedrock: Terraform for guardrails (enforced by IAM deny), S3 Vectors knowledge base, private endpoints and invocation audit logging; FastAPI service with PII redaction, citations and per-team cost metrics; promptfoo evals in CI |
+| [azure-genai-platform](https://github.com/Krustytoe/azure-genai-platform) | Deploy or update a private, keyless AI document-Q&A app on Azure (OpenAI + AI Search) with per-team quotas | Keyless RAG platform on Azure OpenAI + AI Search: Terraform for an APIM AI gateway with per-team token limits, Prompt Shields content filtering and private endpoints; same API and eval suite as the AWS build |
+| [claude-code-skills](https://github.com/Krustytoe/claude-code-skills) | Build or share step-by-step AI assistant playbooks for Terraform reviews, alerts, incident triage, and GovCloud checks | Claude Code plugin: Terraform plan risk review, alert authoring, incident triage, GovCloud readiness |
+| [observability-as-code](https://github.com/Krustytoe/observability-as-code) | Define, unit-test, and deploy Prometheus alerts, Grafana dashboards, and runbooks from code instead of a UI | Prometheus rules with promtool unit tests, multi-burn-rate SLO alerts, Grafonnet dashboards, Terraform deploys |
+| [terraform-aws-platform-modules](https://github.com/Krustytoe/terraform-aws-platform-modules) | Stand up foundational AWS infra (VPCs, passwordless GitHub OIDC roles, encrypted alerts) in commercial AWS or GovCloud | Partition-aware Terraform modules (VPC baseline, GitHub OIDC role, encrypted SNS alerting) with offline `terraform test` suites |
+| [terraform-azure-platform-modules](https://github.com/Krustytoe/terraform-azure-platform-modules) | Stand up foundational Azure infra (VNets, passwordless GitHub OIDC identities, alert groups) in commercial Azure or Azure Gov | Partition-aware Azure Terraform modules (VNet baseline, GitHub OIDC role, Monitor action group) with offline `terraform test` suites |
+| [kubernetes-platform-modules](https://github.com/Krustytoe/kubernetes-platform-modules) | Spin up security-hardened EKS (AWS) or AKS (Azure) Kubernetes clusters in commercial or government clouds | Terraform modules for EKS and AKS: private endpoints, IMDSv2, workload identity, KMS secrets encryption, offline `terraform test` suites |
+| [platform-workflows](https://github.com/Krustytoe/platform-workflows) | Give other repos shared GitHub Actions CI/CD for Terraform plan/apply, Trivy scans, and passwordless AWS/Azure auth | Reusable GitHub Actions workflows (Terraform plan/apply, Trivy scan) and composite actions (AWS + Azure OIDC auth, Terraform setup) |
 
 #### How I like to build
 
